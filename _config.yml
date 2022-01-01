@@ -18,9 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Celebrity Chef Ron Chonkula
+title: Ron Chonkula Productions
 email: ronchonkula@gmail.com
-description: "Ron Chonkula Productions"
+description:  >- # this means to ignore newlines
+  All things Ron Chonkula, the world's most celebrated celebrity chef since
+  2022.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ronchonkula.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ronchonkula
