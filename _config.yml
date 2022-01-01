@@ -20,13 +20,11 @@
 
 title: Celebrity Chef Ron Chonkula
 email: ronchonkula@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Homesite of Celebrity Chef Ron Chonkula's, the world's favorite
-  celebrity chef since 1983.
+description: "Ron Chonkula Productions"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ronchonkula.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.ronchonkula.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ronchonkula
-domain: "ronchonkula.github.io"
+domain: "www.ronchonkula.com"
 
 # Build settings
 theme: minima
