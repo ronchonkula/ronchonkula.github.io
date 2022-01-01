@@ -8,7 +8,7 @@ tags:
 - stoo
 ---
 
-Ron passed through New Mexico on a recent excursion. His team captured some [footage](https://www.youtube.com/watch?v=o1DcFhaCCwI&t=60s) of his stop in Tucumcari, a stop that came as a surprise to one of his particularly mettlesome coachmates. 
+Ron passed through New Mexico on a recent excursion. His team captured some <a href="https://www.youtube.com/watch?v=o1DcFhaCCwI&t=60s" target="_blank">footage</a> of his stop in Tucumcari, a stop that came as a surprise to one of his particularly mettlesome coachmates. 
 
 While visting with some of his fans in the Land of Enchantment, Ron took some time to record his world famous recipe for New Mexican Green Chile Stoo. In the spirit of sharing, Ron will now share that recipe for stoo with yoo:
 
